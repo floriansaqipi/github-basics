@@ -1,0 +1,5 @@
+git init    //perdoret per me inicializu repositorin
+git status  //perdoret per me e pa files lokale a jane n staging area(zona testuse)
+git add .   // add local files to staging area
+git commit -m "Tituli"      // add from staging area to history 
+git log                 // shows all commits all history
