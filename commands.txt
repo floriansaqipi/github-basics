@@ -6,3 +6,9 @@ git log --oneline               // shows all commits all history
 
 
 git remote add origin https://github.com/floriansaqipi/github-basics.git //adds all things u need 
+git branch -M main
+git push -u origin main
+git push --all
+git fetch
+git merge
+
